@@ -16,6 +16,7 @@ public class Biodata {
 				System.out.println(avg);
 				char gen ='m';
 				System.out.println(gen);
+				System.out.println("done");
 				
 				
 				
